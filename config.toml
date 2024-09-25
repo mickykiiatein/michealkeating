@@ -2,3 +2,7 @@ baseURL = 'https://mickykiiatein.github.io/michealkeating/'
 languageCode = 'en-us'
 title = 'Mícheál Keating / Archive'
 theme = 'micheal-keating-theme'
+relativeURLs = true
+canonifyURLs = true
+uglyURLs = false
+
