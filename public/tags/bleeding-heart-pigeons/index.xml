@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bleeding Heart Pigeons on My New Hugo Site</title>
+    <link>https://example.org/tags/bleeding-heart-pigeons/</link>
+    <description>Recent content in Bleeding Heart Pigeons on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 13:33:51 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/bleeding-heart-pigeons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bleeding Heart Pigeons - Stir</title>
+      <link>https://example.org/music/stir/</link>
+      <pubDate>Fri, 22 May 2020 13:33:51 +0100</pubDate>
+      <guid>https://example.org/music/stir/</guid>
+      <description>Songwriting, Production, Vocals, Guitar, Electronics&#xA;Hear it on Bandcamp&#xA;The second full-length album by the Limerick art-rock band Bleeding Heart Pigeons, containing a collection of introspective and sonically adventurous pop songs. My roles in the project were lead songwriter/composer, lead vocalist, guitarist, electronics, engineer and producer. The album was written and recorded while working with Virgin Records, and was self-released independently in 2020 after leaving the label.&#xA;Press coverage of ‘Stir’:</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Trapped (360 MV)</title>
+      <link>https://example.org/music-videos/trapped/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/music-videos/trapped/</guid>
+      <description>Concept, Direction, Generative Visuals, Editing&#xA;Watch Here&#xA;An interactive VR music video that I made under the restrictions of strict COVID-19 lockdown in May 2020. Old footage of the band was recycled and combined with algorithmic visuals to create something new. The viewer is surrounded with abstract construction in the VR world, echoing the songs lyrical themes of confinement and entrapment.</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Real Connection/Weddings &amp; Wakes</title>
+      <link>https://example.org/music/realconnection/</link>
+      <pubDate>Fri, 27 Mar 2020 14:30:33 +0100</pubDate>
+      <guid>https://example.org/music/realconnection/</guid>
+      <description>Songwriting, Production, Mix (track 2), Vocals, Guitar, Electronics&#xA;Hear it on Bandcamp&#xA;EP by Limerick art-rock band Bleeding Heart Pigeons</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Is</title>
+      <link>https://example.org/music/is/</link>
+      <pubDate>Fri, 12 Feb 2016 14:29:31 +0100</pubDate>
+      <guid>https://example.org/music/is/</guid>
+      <description>Songwriting, Production, Vocals, Guitar, Electronics, Album Art&#xA;Hear it on Spotify&#xA;The debut album by art-rock band Bleeding Heart Pigeons, a 75-minute collection of songs based on existential themes. My roles in the project were lead songwriter/composer, lead vocalist, guitarist, engineer and producer. Released on Virgin Records UK, it was distributed worldwide, and led to the band supporting The Pixies, Beach House, Father John Misty, Villagers, Andrew Bird and others.</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Anything You Want EP</title>
+      <link>https://example.org/music/anything/</link>
+      <pubDate>Fri, 27 Nov 2015 14:29:59 +0100</pubDate>
+      <guid>https://example.org/music/anything/</guid>
+      <description>Songwriting, Production, Mix (track 2,4), Vocals, Guitar, Electronics, Album Art&#xA;Hear it on Spotify&#xA;EP by Limerick art-rock band Bleeding Heart Pigeons</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Anything You Want (MV)</title>
+      <link>https://example.org/music-videos/aywmv/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.org/music-videos/aywmv/</guid>
+      <description>Concept, Director, Performer, Editor&#xA;Watch here&#xA;Music video for &amp;lsquo;Anything You Want&amp;rsquo; by Bleeding Heart Pigeons, depicting repressed fantasies of a dairy farmer.</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - A Hallucination EP</title>
+      <link>https://example.org/music/hallucination/</link>
+      <pubDate>Fri, 21 Aug 2015 14:29:52 +0100</pubDate>
+      <guid>https://example.org/music/hallucination/</guid>
+      <description>Songwriting, Production, Mix (track 2,3,4), Vocals, Guitar, Electronics, Album Art&#xA;Hear it on Spotify&#xA;EP by Limerick art-rock band Bleeding Heart Pigeons</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - Visiting Myself in Hospital (MV)</title>
+      <link>https://example.org/music-videos/vmih/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.org/music-videos/vmih/</guid>
+      <description>Concept, Director, Performer, Editor&#xA;Watch Here&#xA;Music video for &amp;lsquo;Visiting Myself in Hospital&amp;rsquo; by Bleeding Heart Pigeons. Very early stuff. You could say juvenilia.</description>
+    </item>
+    <item>
+      <title>Bleeding Heart Pigeons - In a Room in Littleton, Colorado EP</title>
+      <link>https://example.org/music/inaroom/</link>
+      <pubDate>Fri, 13 Dec 2013 14:29:44 +0100</pubDate>
+      <guid>https://example.org/music/inaroom/</guid>
+      <description>Songwriting, Production, Mix, Vocals, Guitar, Electronics, Album Art&#xA;Hear it on Spotify&#xA;Debut release by Limerick art-rock band Bleeding Heart Pigeons. Made when we were teenagers.</description>
+    </item>
+  </channel>
+</rss>

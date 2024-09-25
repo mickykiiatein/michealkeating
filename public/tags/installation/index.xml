@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on My New Hugo Site</title>
+    <link>https://example.org/tags/installation/</link>
+    <description>Recent content in Installation on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40th EVA International</title>
+      <link>https://example.org/production/eva/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/eva/</guid>
+      <description>Installation of Media Works for the 40th EVA International Biennial Exhibition&#xA;I worked as part of the EVA Intl install team, handling file preparation and installation of ~30 sound and video based works for their 40th Biennial. This included the guest programme The Gleaners Society, curated by Sebastian Cichocki, as well as the EVA Platform Commissions. It was a fantastic experience working with the EVA Intl team, and playing part in installing a large scale exhibition.</description>
+    </item>
+    <item>
+      <title>Interspecies Ensemble</title>
+      <link>https://example.org/art/interspecies/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/interspecies/</guid>
+      <description>Mícheál Keating, Felicia Bergstrom, Elisabeth Anna Maria Kaiser&#xA;Audiovisual interspecies performance and sculptural hanging installation, variable duration&#xA;‘Interspecies Ensemble&amp;quot; is an interdisciplinary live gallery performance that stages an intimate and ritualistic encounter between humans, plants and digital life. Human and plant actors, electroacoustic sounds and visual projections interact in a sensory ecology from which an improvised musical, theatrical and audiovisual performance emerges. The work combines contemporary technology with ancient ritualism to strive for an other-worldly techno-pagan utopia where humans, technology and nature co-exist in a sensitive and caring partnership.</description>
+    </item>
+    <item>
+      <title>Stare at the Landscape Until Time Becomes Liquid</title>
+      <link>https://example.org/art/stare/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/stare/</guid>
+      <description>Single channel video loop with sound (63mins), website-based text, and QR code installation&#xA;&amp;lsquo;Stare at the Landscape’ is a multimedia meditation on landscape – our relationship with it, the memory embodied in it, and the futurity potential in it. The work features a 63 minute single channel video of Limerick landscapes shot over a 15-month period, sound, and a web-based stream-of-consciousness text piece which viewers can access through their own devices using a QR code.</description>
+    </item>
+    <item>
+      <title>Home Video (1993-2003)</title>
+      <link>https://example.org/art/home/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/home/</guid>
+      <description>CRT Video Installation with sound, variable duration&#xA;‘Home Video 1993-2003’ is an audiovisual installation piece in which my family&amp;rsquo;s home VHS tapes are digitally processed and juxtaposed by a generative algorithm in realtime, and displayed on my family&amp;rsquo;s old disused CRT TV. Different times layer and blur into one another – chronology is thrown into disarray, and time becomes out of joint. The sentimental nostalgia of the home video viewing experience is abstracted, the familiarity of it is altered, in order to allow an eerie agency of time to present itself.</description>
+    </item>
+    <item>
+      <title>APARTMENT</title>
+      <link>https://example.org/art/apartment/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/apartment/</guid>
+      <description>6 channel immersive sound installation, variable duration&#xA;A six-speaker realtime generative sound art installation, which presents an immersive, surreal and exaggerated environment of collaged domestic machine sounds such as washing machines, microwaves and hoovers.&#xA;Watch a demo here</description>
+    </item>
+  </channel>
+</rss>

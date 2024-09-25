@@ -1,0 +1,288 @@
+<html>
+<head>
+	<meta name="generator" content="Hugo 0.124.1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <style>
+         
+        body {
+            margin: 0;
+            padding: 0;
+            background: black;
+        }
+
+         
+        .headerr {
+            position: fixed;
+            top: 0;
+            left: 0;
+            margin-top: 0px;
+            margin-left: 0px;
+            padding-bottom: 10px;
+            width: auto;
+            height: 100px;  
+            z-index: 10;  
+            padding-left: 0px;
+            align-items: center;
+            font-style: bold;
+            justify-content: space-between;  
+            background: rgba(0, 0, 0, 0.0);  
+        }
+
+         
+        .responsive-image-container {
+            position: absolute;
+            top: 0;  
+            left: 0;
+            width: 100%;
+            height: 100vh;  
+            overflow: hidden;
+            z-index: 1;  
+        }
+
+        .responsive-image {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;  
+        }
+
+         
+        @media only screen and (max-width: 768px) {
+            .body {
+                height: 100vh;
+            }
+            .responsive-image-container {
+                height: 100vh;  
+            }
+            .headerr {
+                height: auto;
+                width:auto;
+                background: rgba(0, 0, 0, 0.3);  
+
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="headerr" id="headerr" style="text-align:left; margin-top:0px; padding:0px; padding-left:20px; padding-right:20px; font-family: Arial, Helvetica, sans-serif; font-style: italic; text-transform:uppercase; position:fixed; width:auto%; top:0; background:none;">
+     <h1 style="margin-bottom:-10px;">
+         <a id="header-title-link" style="text-decoration: none; background:none; padding:5px; padding-left:0px; text-align: left;" href="/">Mícheál Keating / Archive</a>
+     </h1>
+     <br>
+     <nav style="margin-top: 0px;">
+         <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; ">
+             <li style="margin-right: 20px;"><a class="nav-link" href="/about/index.html">About</a></li>
+             <li style="margin-right: 20px;"><a class="nav-link" href="/art/index.html">Art</a></li>
+             <li style="margin-right: 20px;"><a class="nav-link" href="/music/index.html">Music</a></li>
+             <li style="margin-right: 20px;"><a class="nav-link" href="/production/index.html">Production</a></li>
+             <li style="margin-right: 20px;"><a class="nav-link" href="/music-videos/index.html">Music Videos</a></li>
+         </ul>
+     </nav>
+ </div>
+ 
+ 
+ <style>
+      
+     .headerr {
+         color: #00ff00;
+         height:100px;
+     }
+ 
+      
+     #header-title-link {
+         color: inherit;
+         text-decoration: none;
+         padding: 5px;
+     }
+ 
+      
+     .nav-link {
+         text-decoration: underline;
+         background: none;
+         color: inherit;  
+         text-align: left;
+         display: block;
+         padding: 5px;
+     }
+ 
+      
+     @media (max-width: 768px) {
+         nav ul {
+             display: flex;
+             flex-wrap: wrap;
+             text-align: center;
+         }
+ 
+         nav ul li {
+             flex:wrap; 
+             margin-bottom: 10px;  
+             text-align: center;
+         }
+         
+         .headerr {
+          height:200px;
+         }
+         h1 {
+             font-size: 2rem;
+             text-align: left;
+         }
+     }
+
+ </style>
+ 
+    </div>
+
+    
+    <div class="responsive-image-container">
+        <a id="random-image-link" class="image-link" href="#" aria-label="View artwork">
+            <img id="random-image" alt="Random Memory" class="responsive-image" loading="lazy">
+        </a>
+    </div>
+
+    <script>
+        
+        const images = [
+            { src: 'memory.jpg', url: '/art/memory', fontColor: '#ffffff', mobileSrc: 'memory_02.jpg', mobileFontColor: '#ffffff', alpha: 0.0, showOnMobile: false },
+            { src: 'memory_01.jpg', url: '/art/memory', fontColor: '#ffffff', mobileSrc: 'memory_03.jpg', alpha: 0.0, showOnMobile: false },
+            { src: 'memory_02.jpg', url: '/art/memory', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'memory_03.jpg', url: '/art/memory', fontColor:'#000000', alpha: 0.0, mobileFontColor:'#00aa00', showOnMobile: true },
+            { src: 'memory_04.jpg', url: '/art/memory', scale: '1.25', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'memory_05.jpg', url: '/art/memory', scale: '1.25', alpha: 0.0, showOnMobile: true },
+            { src: 'memory_06.jpg', url: '/art/memory', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'memory_07.jpg', url: '/art/memory', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'memory_09.jpg', url: '/art/memory', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'landseries.jpg', url: '/art/landseries', fontColor: '#ff6600', mobileSrc: 'landseries1.jpg', mobileFontColor:'#0000ff', alpha: 0.0, showOnMobile: false },
+            { src: 'landseries1.jpg', url: '/art/landseries', fontColor: '#0000ff', alpha: 0.0, showOnMobile: true },
+            { src: 'landseries2.jpg', url: '/art/landseries', alpha: 0.0, fontColor:'#22ff22', showOnMobile: true },
+            { src: 'landseries4.jpg', url: '/art/landseries', fontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'landseries6.jpg', url: '/art/landseries', alpha: 0.0, fontColor:'#00ee00', showOnMobile: false },
+            { src: 'landseries7.jpg', url: '/art/landseries', alpha: 0.0, fontColor:'#00aa00', showOnMobile: true },
+            { src: 'landseries8.jpg', url: '/art/landseries', mobileSrc: 'landseries9.jpg', fontColor:'#0000ff', mobileFontColor:'#00ff00', alpha: 0.0, showOnMobile: false },
+            { src: 'landseries9.jpg', url: '/art/landseries', alpha: 0.0, fontColor:'#00ff00', showOnMobile: true },
+            { src: 'landseries10.jpg', url: '/art/landseries', mobileSrc: 'landseries7.jpg', fontColor:'#009900', mobileFontColor:'#00aa00', alpha: 0.0, showOnMobile: false },
+            { src: 'landalbum.jpg', url: '/art/landalbum', alpha: 0.0, fontColor:'#0000ff', showOnMobile: false },
+            { src: 'landalbum2.jpg', url: '/art/landalbum', alpha: 0.0, showOnMobile: false },
+            { src: 'landalbum3.jpg', url: '/art/landalbum', alpha: 0.0, fontColor:'#00cc00', showOnMobile: true },
+            { src: 'interspecies.jpg', url: '/art/interspecies', alpha: 0.0, showOnMobile: true },
+            { src: 'interspecies2.jpg', url: '/art/interspecies', fontColor: '#9933ff', alpha: 0.0, showOnMobile: true },
+            { src: 'interspecies3.jpg', url: '/art/interspecies', alpha: 0.0, showOnMobile: true },
+            { src: 'ireland.jpg', url: '/art/ireland', alpha: 0.0, showOnMobile: true },
+            { src: 'purplemv.jpg', url: '/music-videos/purplemv', scale: '1.0', fontColor: '#3333ff', mobileSrc: 'landseries6.jpg', mobileFontColor: '#00ee00', alpha: 0.0, showOnMobile: false },
+            { src: 'purplemv2.jpg', url: '/music-videos/purplemv', scale: '1.3', mobileSrc: 'ireland.jpg', alpha: 0.0, showOnMobile: false },
+            { src: 'purplemv3.jpg', url: '/music-videos/purplemv', alpha: 0.0, fontColor:'#0000ff', showOnMobile: false },
+            { src: 'purplemv4.jpg', url: '/music-videos/purplemv', fontColor:'#0000ff', alpha: 0.0, showOnMobile: true },
+            { src: 'purplemv5.jpg', url: '/music-videos/purplemv', alpha: 0.0, showOnMobile: true },
+            { src: 'purplemv6.jpg', url: '/music-videos/purplemv', mobileSrc: 'purplemv5.jpg', alpha: 0.0, fontColor:'#0000ff', mobileFontColor:'#00ff00', showOnMobile: true },
+            { src: 'stare.jpg', url: '/art/stare', alpha: 0.0, fontColor:'#00aa00', showOnMobile: true },
+            { src: 'stare_04.jpg', url: '/art/stare', fontColor: '#ffffff', alpha: 0.0, showOnMobile: false },
+            { src: 'stare_02.jpg', url: '/art/stare', alpha: 0.0, fontColor:'#008800', showOnMobile: true },
+            { src: 'terra.jpg', url: '/art/terra', fontColor:'#ffffff', mobileSrc: 'landseries9.jpg', mobileFontColor: '#00ff00', alpha: 0.0, showOnMobile: true },
+            { src: 'terra_02.jpg', url: '/art/terra', mobileSrc: 'stare_04.jpg', mobileFontColor: '#ffffff', alpha: 0.0, showOnMobile: true },
+            { src: 'wecouldbedivingforpearls.jpg', url: '/music/wecouldbedivingforpearls', fontColor: '#ff0000', mobileSrc: 'trapped2.jpg', mobileFontColor: '#9999ff', alpha: 0.0, showOnMobile: true },
+            { src: 'trapped.jpg', url: '/music-videos/trapped', fontColor: '#9933ff', showOnMobile: true },
+            { src: 'trapped2.jpg', url: '/music-videos/trapped', fontColor: '#9999ff', showOnMobile: true },
+            { src: 'outofplace.jpg', url: '/music/outofplace', showOnMobile: true },
+            { src: 'home.jpg', url: '/art/home', scale: '1.15', fontColor: '#b266ff', mobileFontColor:'#ffffff', showOnMobile: true },
+            { src: 'home2.jpg', url: '/art/home', scale: '1.15', fontColor: '#b266ff', mobileFontColor:'#ffffff', showOnMobile: true },
+            { src: 'farm.jpg', url: '/art/farm', scale: '1.3', fontColor: '#ffffff', showOnMobile: true },
+            { src: 'farm2.jpg', url: '/art/farm', fontColor: '#ffffff', mobileSrc: 'farm3.jpg', showOnMobile: false },
+            { src: 'farm3.jpg', url: '/art/farm', fontColor: '#ffffff', showOnMobile: true },
+            { src: 'farm4.jpg', url: '/art/farm', scale: '1', fontColor: '#000000', showOnMobile: false },
+        ];
+
+        
+        function shuffle(array) {
+            let currentIndex = array.length, randomIndex;
+            while (currentIndex !== 0) {
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+                [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+            }
+            return array;
+        }
+
+        
+        function getShuffledImages() {
+            const storedImages = localStorage.getItem('shuffledImages');
+            if (storedImages) {
+                return JSON.parse(storedImages);
+            } else {
+                const shuffled = shuffle(images.slice());
+                localStorage.setItem('shuffledImages', JSON.stringify(shuffled));
+                return shuffled;
+            }
+        }
+
+        
+        function getNextImage() {
+            let imageList = getShuffledImages();
+            const lastIndex = parseInt(localStorage.getItem('lastIndex')) || 0;
+
+            
+            const isMobile = window.innerWidth <= 768;
+            if (isMobile) {
+                imageList = imageList.filter(image => image.showOnMobile);
+            }
+
+            const nextIndex = (lastIndex + 1) % imageList.length;
+            const selectedImage = imageList[nextIndex];
+
+            localStorage.setItem('lastIndex', nextIndex);
+            if (nextIndex === 0) {
+                localStorage.removeItem('shuffledImages');
+            }
+
+            return selectedImage;
+        }
+
+        function updateHeaderFontColor(fontColor) {
+            const headerElement = document.querySelector('.header'); 
+            const navLinks = document.querySelectorAll('.nav-link');
+            const headerTitleLink = document.getElementById('header-title-link');
+
+            
+            if (fontColor) {
+                headerElement.style.color = fontColor;
+                headerTitleLink.style.color = fontColor;
+                navLinks.forEach(link => {
+                    link.style.color = fontColor;
+                });
+            }
+        }
+
+        
+        function updateHeaderOpacity(alpha) {
+            const headerElement = document.querySelector('.headerr');
+            headerElement.style.background = `rgba(0, 0, 0, ${alpha})`;
+        }
+
+        
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const imgElement = document.getElementById('random-image');
+            const linkElement = document.getElementById('random-image-link');
+            const selectedImage = getNextImage();
+
+            
+            const isMobile = window.innerWidth <= 768;
+            imgElement.src = isMobile && selectedImage.mobileSrc ? 
+                             `/imgs/${selectedImage.mobileSrc}` : 
+                             `/imgs/${selectedImage.src}`;
+
+            
+            const fontColor = isMobile && selectedImage.mobileFontColor ? 
+                              selectedImage.mobileFontColor : 
+                              selectedImage.fontColor;
+
+            linkElement.href = selectedImage.url;
+            imgElement.style.transform = `scale(${selectedImage.scale || 1})`;
+
+            updateHeaderFontColor(fontColor);
+            updateHeaderOpacity(selectedImage.alpha || 0.0); 
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Media on My New Hugo Site</title>
+    <link>https://example.org/tags/digital-media/</link>
+    <description>Recent content in Digital Media on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/digital-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eimear Walshe - Romantic Ireland (Venice Biennale 2024)</title>
+      <link>https://example.org/production/romanticireland/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/romanticireland/</guid>
+      <description>Venice Biennale Multimedia Installation&#xA;Production Team, Technical Consultant, File Management/Archivist&#xA;Eimear Walshe&amp;rsquo;s multimodal piece &amp;lsquo;Romantic Ireland&amp;rsquo; was produced to represent Ireland at the 2024 Venice Biennale Arte. I worked as part of the project&amp;rsquo;s production team, as a shoot assistant for a test shoot, as well as file management/archivist for the project&amp;rsquo;s video shoots.</description>
+    </item>
+    <item>
+      <title>40th EVA International</title>
+      <link>https://example.org/production/eva/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/eva/</guid>
+      <description>Installation of Media Works for the 40th EVA International Biennial Exhibition&#xA;I worked as part of the EVA Intl install team, handling file preparation and installation of ~30 sound and video based works for their 40th Biennial. This included the guest programme The Gleaners Society, curated by Sebastian Cichocki, as well as the EVA Platform Commissions. It was a fantastic experience working with the EVA Intl team, and playing part in installing a large scale exhibition.</description>
+    </item>
+  </channel>
+</rss>

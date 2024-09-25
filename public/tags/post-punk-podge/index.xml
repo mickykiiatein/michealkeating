@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post Punk Podge on My New Hugo Site</title>
+    <link>https://example.org/tags/post-punk-podge/</link>
+    <description>Recent content in Post Punk Podge on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/post-punk-podge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Punk Podge - Gentrification Nation (MV)</title>
+      <link>https://example.org/music-videos/gentrification/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/music-videos/gentrification/</guid>
+      <description>Concept, Director, Videography, Editing&#xA;Watch Here&#xA;A music video for &amp;lsquo;Gentrification Nation&amp;rsquo; by Post Punk Podge, looking at gentrification and change in Limerick City</description>
+    </item>
+    <item>
+      <title>Post Punk Podge &amp; The Technohippies - Euphoric Recall</title>
+      <link>https://example.org/production/euphoric/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/euphoric/</guid>
+      <description>Production, Mix, Drum Programming, Additional Instrumentation&#xA;Hear it on Bandcamp&#xA;Debut LP by Limerick legend Post Punk Podge</description>
+    </item>
+  </channel>
+</rss>

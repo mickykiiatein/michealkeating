@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Improvisation on My New Hugo Site</title>
+    <link>https://example.org/tags/improvisation/</link>
+    <description>Recent content in Improvisation on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 14:53:44 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/improvisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Péist - Three</title>
+      <link>https://example.org/music/peistthree/</link>
+      <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
+      <guid>https://example.org/music/peistthree/</guid>
+      <description>Improviser (vocals, guitar and signal processing)&#xA;Hear it on Bandcamp&#xA;The third album by improvised music collective Péist&#xA;&amp;ldquo;Péist (transl. worm) are a group of musicians and artists based in Limerick. In their improvisations, they wriggle and writhe between sounds and musical forms, burrowing through the dirt.&#xA;Peíst are Mícheál Keating, Daithí Mac Cruitín, Eilis Mahon, Cian McGuirk, Caimin Walsh and Aoibhinn O&amp;rsquo;Dea&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Péist - Two</title>
+      <link>https://example.org/music/peisttwo/</link>
+      <pubDate>Sat, 11 Mar 2023 14:53:37 +0100</pubDate>
+      <guid>https://example.org/music/peisttwo/</guid>
+      <description>Improviser (vocals, guitar and signal processing)&#xA;Hear it on Bandcamp&#xA;The second album by improvised music collective Péist&#xA;&amp;ldquo;Péist (transl. worm) are a group of musicians and artists based in Limerick. In their improvisations, they wriggle and writhe between sounds and musical forms, burrowing through the dirt.&#xA;Peíst are Mícheál Keating, Daithí Mac Cruitín, Eilis Mahon, Cian McGuirk, Caimin Walsh and Aoibhinn O&amp;rsquo;Dea&amp;rdquo;&#x9;Improviser (vocals, guitar and signal processing)</description>
+    </item>
+    <item>
+      <title>Péist - One</title>
+      <link>https://example.org/music/peistone/</link>
+      <pubDate>Thu, 23 Feb 2023 14:53:33 +0100</pubDate>
+      <guid>https://example.org/music/peistone/</guid>
+      <description>Improviser (vocals, guitar and signal processing)&#xA;Hear it on Bandcamp&#xA;The first album by improvised music collective Péist&#xA;&amp;ldquo;Péist (transl. worm) are a group of musicians and artists based in Limerick. In their improvisations, they wriggle and writhe between sounds and musical forms, burrowing through the dirt.&#xA;Peíst are Mícheál Keating, Daithí Mac Cruitín, Eilis Mahon, Cian McGuirk, Caimin Walsh and Aoibhinn O&amp;rsquo;Dea&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>

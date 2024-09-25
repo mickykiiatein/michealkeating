@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual on My New Hugo Site</title>
+    <link>https://example.org/tags/visual/</link>
+    <description>Recent content in Visual on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/visual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interspecies Ensemble</title>
+      <link>https://example.org/art/interspecies/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/interspecies/</guid>
+      <description>Mícheál Keating, Felicia Bergstrom, Elisabeth Anna Maria Kaiser&#xA;Audiovisual interspecies performance and sculptural hanging installation, variable duration&#xA;‘Interspecies Ensemble&amp;quot; is an interdisciplinary live gallery performance that stages an intimate and ritualistic encounter between humans, plants and digital life. Human and plant actors, electroacoustic sounds and visual projections interact in a sensory ecology from which an improvised musical, theatrical and audiovisual performance emerges. The work combines contemporary technology with ancient ritualism to strive for an other-worldly techno-pagan utopia where humans, technology and nature co-exist in a sensitive and caring partnership.</description>
+    </item>
+  </channel>
+</rss>

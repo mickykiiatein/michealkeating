@@ -1,0 +1,59 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+<style>
+     .header {
+          width:100%;
+          height:100px;
+          background:white;
+          position:fixed;
+     }
+     .content {
+          padding: 20px;
+          padding-top:120px;
+          }
+     @media (max-width: 768px) {
+        .content {
+            padding-top: 220px; /* Adjust based on the mobile header height */
+        }
+
+        .header {
+          height:175px;
+        }
+     }
+</style>
+
+</head>
+<body style="margin-top:0px; margin-left:0px;">
+    <div class="header">
+    {{ partial "header" . }}
+</div>
+     <div class="content" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+
+     {{.Content}}
+     {{ range .Pages }}
+          <div style="border: none solid rgb(0,255,0); margin:0px; padding:0px; font-family: Arial, Helvetica, sans-serif;">
+               <!-- Image -->
+               <div style="padding-bottom: 10px;">
+                    {{ if .File }}
+                    <a href="{{ .Permalink }}" style="display: block;">
+                    <img src="/imgs/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}" style="width: 100%; height: 350px; object-fit: cover;">
+                    </a>
+                    {{ end }}
+               </div>
+               <div style="font-size:20px;">
+                    <a style="color:rgb(0,255,0);" href="{{.Permalink}}">{{.Title}}</a>
+               </div>
+               <div style="color:rgb(0, 0, 0); font-size:16px;">{{ dateFormat "Jan 2006" .Date }}</div>
+              <!--<div style="color:rgb(0, 255, 0); font-size:16px;">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a style="color:black;" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>-->
+               <div style="color:black; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+               <div style="color:black; font-size:16px;">{{ if .Params.moods }}<strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+          </div>
+     {{ end }}
+</div>
+     {{ partial "footer" . }}
+</body>
+</html>
