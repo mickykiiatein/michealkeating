@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vocal Ensemble on My New Hugo Site</title>
+    <link>https://example.org/tags/vocal-ensemble/</link>
+    <description>Recent content in Vocal Ensemble on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2023 14:53:54 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/vocal-ensemble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amanda Feery - we could be diving for pearls</title>
+      <link>https://example.org/music/wecouldbedivingforpearls/</link>
+      <pubDate>Fri, 03 Nov 2023 14:53:54 +0100</pubDate>
+      <guid>https://example.org/music/wecouldbedivingforpearls/</guid>
+      <description>Member of Vocal Ensemble, Vocal Improvisation&#xA;Musical Composition for Vocal Ensemble and Electronics&#xA;&amp;lsquo;we could be diving for pearls&amp;rsquo; is a piece for vocal ensemble and electronics by composer Amanda Feery with text by Declan Synnott, commissioned by Gleo Festival, Limerick, November 2023. I was part of the vocal ensemble that interpreted and performed the improvisatory score, with Amanda Feery, Katie Fitzpatrick and Aoife Ní Raghallaigh.</description>
+    </item>
+  </channel>
+</rss>

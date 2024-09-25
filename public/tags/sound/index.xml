@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sound on My New Hugo Site</title>
+    <link>https://example.org/tags/sound/</link>
+    <description>Recent content in Sound on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/sound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>County Limerick Landscape Improvisation Series</title>
+      <link>https://example.org/art/landseries/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/landseries/</guid>
+      <description>Sound, Video, Photography, Sizes &amp;amp; Durations variable (2023-ongoing)&#xA;This work is an ongoing engagement with rural Limerick landscapes, combining deep listening, improvised sound-making, field recording and photography/videography. I perform this ritual with voice and electronics in local landscapes of varying land use (including peat bogs, industrial plants, dairy farmland, quarries, commercial forestry plantations), weaving with their sonic ecologies. I document this ritual with sound and video recording, and I document the landscapes with medium format photography.</description>
+    </item>
+    <item>
+      <title>Ireland (for desktop wallpapers, voice and signal processing)</title>
+      <link>https://example.org/art/ireland/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/ireland/</guid>
+      <description>Single channel video with sound, 8.5mins&#xA;Sound Performance exploring stereotypical imagery of Irish landscapes. Images are pulled from a Google search of &amp;lsquo;Ireland&amp;rsquo;. The performance draws out an uncanny sense of Ireland as viewed by Google users. The idealised landscapes shown are undercut by a mangled voice, suggesting that all is not as quaint and bucolic as it seems in the rural Irish landscape. Initially published as an Instagram reel.</description>
+    </item>
+    <item>
+      <title>Grasslands</title>
+      <link>https://example.org/art/grasslands/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/grasslands/</guid>
+      <description>Sound performance with single channel video projection, 30mins&#xA;Grasslands&amp;rsquo; was a 30 minute improvised sound performance for the opening of STARLING arts space, Limerick. I performed with voice, signal processing, and field recording, incorporating foraged and AI-generated text relating Irish agricultural grasslands. A durational video projection of a sunset over County Limerick grasslands underpins the performance.</description>
+    </item>
+    <item>
+      <title>Interspecies Ensemble</title>
+      <link>https://example.org/art/interspecies/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/interspecies/</guid>
+      <description>Mícheál Keating, Felicia Bergstrom, Elisabeth Anna Maria Kaiser&#xA;Audiovisual interspecies performance and sculptural hanging installation, variable duration&#xA;‘Interspecies Ensemble&amp;quot; is an interdisciplinary live gallery performance that stages an intimate and ritualistic encounter between humans, plants and digital life. Human and plant actors, electroacoustic sounds and visual projections interact in a sensory ecology from which an improvised musical, theatrical and audiovisual performance emerges. The work combines contemporary technology with ancient ritualism to strive for an other-worldly techno-pagan utopia where humans, technology and nature co-exist in a sensitive and caring partnership.</description>
+    </item>
+    <item>
+      <title>Stare at the Landscape Until Time Becomes Liquid</title>
+      <link>https://example.org/art/stare/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/stare/</guid>
+      <description>Single channel video loop with sound (63mins), website-based text, and QR code installation&#xA;&amp;lsquo;Stare at the Landscape’ is a multimedia meditation on landscape – our relationship with it, the memory embodied in it, and the futurity potential in it. The work features a 63 minute single channel video of Limerick landscapes shot over a 15-month period, sound, and a web-based stream-of-consciousness text piece which viewers can access through their own devices using a QR code.</description>
+    </item>
+    <item>
+      <title>MEMORY_LANE_(dump)</title>
+      <link>https://example.org/art/memory/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/memory/</guid>
+      <description>Single channel HD video with sound, 36.5mins&#xA;A 36 minute audiovisual artwork completed for my MA thesis, in which large volumes of digital archival materials pertaining to Limerick are combined with footage of the Limerick landscape, to explore the land as a haunted, digitally mediated palimpsest. The piece probes questions of memory, place, hauntology, nostalgia, historical narratives, temporality and the digital archive. The piece was exhibited in &amp;lsquo;The Limerick Show&amp;rsquo; (2022) in Ormston House.</description>
+    </item>
+    <item>
+      <title>Home Video (1993-2003)</title>
+      <link>https://example.org/art/home/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/home/</guid>
+      <description>CRT Video Installation with sound, variable duration&#xA;‘Home Video 1993-2003’ is an audiovisual installation piece in which my family&amp;rsquo;s home VHS tapes are digitally processed and juxtaposed by a generative algorithm in realtime, and displayed on my family&amp;rsquo;s old disused CRT TV. Different times layer and blur into one another – chronology is thrown into disarray, and time becomes out of joint. The sentimental nostalgia of the home video viewing experience is abstracted, the familiarity of it is altered, in order to allow an eerie agency of time to present itself.</description>
+    </item>
+    <item>
+      <title>APARTMENT</title>
+      <link>https://example.org/art/apartment/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/apartment/</guid>
+      <description>6 channel immersive sound installation, variable duration&#xA;A six-speaker realtime generative sound art installation, which presents an immersive, surreal and exaggerated environment of collaged domestic machine sounds such as washing machines, microwaves and hoovers.&#xA;Watch a demo here</description>
+    </item>
+  </channel>
+</rss>

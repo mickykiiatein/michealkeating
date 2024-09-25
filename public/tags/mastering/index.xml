@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mastering on My New Hugo Site</title>
+    <link>https://example.org/tags/mastering/</link>
+    <description>Recent content in Mastering on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 14:53:25 +0100</lastBuildDate>
+    <atom:link href="https://example.org/tags/mastering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mícheál Keating - Out of Place OST</title>
+      <link>https://example.org/music/outofplace/</link>
+      <pubDate>Thu, 26 Jan 2023 14:53:25 +0100</pubDate>
+      <guid>https://example.org/music/outofplace/</guid>
+      <description>Composition, Production, Mix, Guitar, Bass, Synth, Drum Programming, Violin, Accordion&#xA;Hear it on Bandcamp&#xA;Original Score for Féile na Gréine&amp;rsquo;s documentary film &amp;lsquo;Out of Place&amp;rsquo;&#xA;&amp;ldquo;This is a pinhole view capturing a passing moment. The story is neither polished or neat, it is rough and taped together at the seams, fragmented and utterly incomplete.&#xA;Featuring performances from Denise Chaila, God Knows, Hey Rusty, His Father’s Voice, MuRli, and Post Punk Podge &amp;amp; the Technohippies, OUT OF PLACE is an intimate portrayal of a local music scene, capturing the incredible diversity of cultural activity happening in Limerick City.</description>
+    </item>
+    <item>
+      <title>Mícheál Keating &amp; Brendan McInerney - It&#39;s Still There</title>
+      <link>https://example.org/music/itsstillthere/</link>
+      <pubDate>Sun, 10 Oct 2021 14:53:10 +0100</pubDate>
+      <guid>https://example.org/music/itsstillthere/</guid>
+      <description>Composition, Production, Mix, Tape Loops, Vocals, Guitars, Bass, Synthesizers, Electronics, Viola, Flute.&#xA;Hear it on Bandcamp&#xA;‘It’s Still There’ is a 10 minute instrumental piece by Mícheál Keating and drummer Brendan McInerney of Bleeding Heart Pigeons, commissioned by The Source Arts Centre, Thurles. The track marries elements of Progressive Rock, Drum-and-Bass, Electronic, Free Jazz, and Ambient music. The piece fixates on hauntings as virtual (non)presences, which can have persistent agency from a distant time or place.</description>
+    </item>
+    <item>
+      <title>The Mary Wallopers - A Mouthful of the Mary Wallopers</title>
+      <link>https://example.org/production/mouthful/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/mouthful/</guid>
+      <description>Production, Mix, Mastering, Tin Whistle, Organ, Bass Guitar on &amp;lsquo;Turfman&amp;rsquo;&#xA;Hear it on Bandcamp&#xA;Debut EP by Dundalk ballad singers The Mary Wallopers</description>
+    </item>
+    <item>
+      <title>Hey Rusty - Lady&#39;s Lane</title>
+      <link>https://example.org/production/ladyslane/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.org/production/ladyslane/</guid>
+      <description>Mastering&#xA;Hear it on Bandcamp&#xA;Debut EP by Limerick singer-songwriter Hey Rusty</description>
+    </item>
+  </channel>
+</rss>

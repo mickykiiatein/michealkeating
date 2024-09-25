@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SORBET on My New Hugo Site</title>
+    <link>https://example.org/tags/sorbet/</link>
+    <description>Recent content in SORBET on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/sorbet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SORBET - Born Purple (MV)</title>
+      <link>https://example.org/music-videos/purplemv/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/music-videos/purplemv/</guid>
+      <description>Concept, Director, Videography, Visual Algorithms, Editing&#xA;Watch Here&#xA;A music video I made which reflects the song’s anthropocene theme in an understated, locally-specific way. Generative computational techniques are utilised to collage video clips of various processes of exchange and energy transfer, and these images are brought into dialogue with the Limerick/Tipperary landscape, to inspire reflection on human processes and their cumulative impact on the local landscape. I also contributed lyrics and vocals to the song under the pseudonym ‘mickykiiatein’.</description>
+    </item>
+    <item>
+      <title>SORBET - Born Purple</title>
+      <link>https://example.org/music/bornpurple/</link>
+      <pubDate>Fri, 04 Jun 2021 14:53:17 +0100</pubDate>
+      <guid>https://example.org/music/bornpurple/</guid>
+      <description>Songwriting, Lead Vocals, Additional Instrumentation&#xA;Hear it on Bandcamp&#xA;Collaborative track with Chris Ryan (Robocobra Quartet) which appeared on the album &amp;lsquo;This Was Paradise&amp;rsquo; by his project SORBET. The album deals with themes of ecological breakdown and also features contributions from Maija Sofia, Arborist and others. I wrote lyrics for the song which were inspired by an experience of watching a cow die from milk fever.</description>
+    </item>
+  </channel>
+</rss>

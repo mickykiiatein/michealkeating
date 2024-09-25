@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live Performance on My New Hugo Site</title>
+    <link>https://example.org/tags/live-performance/</link>
+    <description>Recent content in Live Performance on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/live-performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grasslands</title>
+      <link>https://example.org/art/grasslands/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/grasslands/</guid>
+      <description>Sound performance with single channel video projection, 30mins&#xA;Grasslands&amp;rsquo; was a 30 minute improvised sound performance for the opening of STARLING arts space, Limerick. I performed with voice, signal processing, and field recording, incorporating foraged and AI-generated text relating Irish agricultural grasslands. A durational video projection of a sunset over County Limerick grasslands underpins the performance.</description>
+    </item>
+    <item>
+      <title>Amanda Feery - we could be diving for pearls</title>
+      <link>https://example.org/music/wecouldbedivingforpearls/</link>
+      <pubDate>Fri, 03 Nov 2023 14:53:54 +0100</pubDate>
+      <guid>https://example.org/music/wecouldbedivingforpearls/</guid>
+      <description>Member of Vocal Ensemble, Vocal Improvisation&#xA;Musical Composition for Vocal Ensemble and Electronics&#xA;&amp;lsquo;we could be diving for pearls&amp;rsquo; is a piece for vocal ensemble and electronics by composer Amanda Feery with text by Declan Synnott, commissioned by Gleo Festival, Limerick, November 2023. I was part of the vocal ensemble that interpreted and performed the improvisatory score, with Amanda Feery, Katie Fitzpatrick and Aoife Ní Raghallaigh.</description>
+    </item>
+    <item>
+      <title>Interspecies Ensemble</title>
+      <link>https://example.org/art/interspecies/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/art/interspecies/</guid>
+      <description>Mícheál Keating, Felicia Bergstrom, Elisabeth Anna Maria Kaiser&#xA;Audiovisual interspecies performance and sculptural hanging installation, variable duration&#xA;‘Interspecies Ensemble&amp;quot; is an interdisciplinary live gallery performance that stages an intimate and ritualistic encounter between humans, plants and digital life. Human and plant actors, electroacoustic sounds and visual projections interact in a sensory ecology from which an improvised musical, theatrical and audiovisual performance emerges. The work combines contemporary technology with ancient ritualism to strive for an other-worldly techno-pagan utopia where humans, technology and nature co-exist in a sensitive and caring partnership.</description>
+    </item>
+  </channel>
+</rss>
