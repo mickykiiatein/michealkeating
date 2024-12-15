@@ -11,6 +11,27 @@
     <loc>https://example.org/production/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/tags/mixing/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/production/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/recording-artist/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/the-low-field/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/music/lowfield/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/production/lowfield/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/about/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,15 +39,6 @@
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/production/blackpoison/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/mixing/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/production/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/art/</loc>
@@ -130,12 +142,6 @@
   </url><url>
     <loc>https://example.org/music/peistthree/</loc>
     <lastmod>2023-07-28T14:53:44+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/recording-artist/</loc>
-    <lastmod>2023-07-28T14:53:44+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/the-low-field/</loc>
-    <lastmod>2023-06-07T12:11:36+01:00</lastmod>
   </url><url>
     <loc>https://example.org/music/heavtach/</loc>
     <lastmod>2023-06-07T12:11:36+01:00</lastmod>

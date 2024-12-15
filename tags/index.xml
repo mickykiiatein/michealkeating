@@ -6,27 +6,41 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>His Father&#39;s Voice</title>
-      <link>https://example.org/tags/his-fathers-voice/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/his-fathers-voice/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Mixing</title>
       <link>https://example.org/tags/mixing/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/mixing/</guid>
       <description></description>
     </item>
     <item>
       <title>Production</title>
       <link>https://example.org/tags/production/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recording Artist</title>
+      <link>https://example.org/tags/recording-artist/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/recording-artist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Low Field</title>
+      <link>https://example.org/tags/the-low-field/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/the-low-field/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>His Father&#39;s Voice</title>
+      <link>https://example.org/tags/his-fathers-voice/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/his-fathers-voice/</guid>
       <description></description>
     </item>
     <item>
@@ -188,20 +202,6 @@
       <link>https://example.org/tags/p%C3%A9ist/</link>
       <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
       <guid>https://example.org/tags/p%C3%A9ist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recording Artist</title>
-      <link>https://example.org/tags/recording-artist/</link>
-      <pubDate>Fri, 28 Jul 2023 14:53:44 +0100</pubDate>
-      <guid>https://example.org/tags/recording-artist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Low Field</title>
-      <link>https://example.org/tags/the-low-field/</link>
-      <pubDate>Wed, 07 Jun 2023 12:11:36 +0100</pubDate>
-      <guid>https://example.org/tags/the-low-field/</guid>
       <description></description>
     </item>
     <item>
